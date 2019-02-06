@@ -1,4 +1,6 @@
-# OpenCv-face_recognise
+# OpenCv-Face_Rcognise
+
+#Make sure you must following the same project dirctory structure
 To recognise particular person face without moving tensorflow API , Opencv v4.0.0 it has some methods to recognise face object.
 
 takePic.py
